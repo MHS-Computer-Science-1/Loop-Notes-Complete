@@ -1,0 +1,18 @@
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\bin\Debug\net5.0-windows\Loop Notes.exe
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\bin\Debug\net5.0-windows\Loop Notes.deps.json
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\bin\Debug\net5.0-windows\Loop Notes.runtimeconfig.json
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\bin\Debug\net5.0-windows\Loop Notes.runtimeconfig.dev.json
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\bin\Debug\net5.0-windows\Loop Notes.dll
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\bin\Debug\net5.0-windows\ref\Loop Notes.dll
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\bin\Debug\net5.0-windows\Loop Notes.pdb
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\obj\Debug\net5.0-windows\Loop Notes.vbprojAssemblyReference.cache
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\obj\Debug\net5.0-windows\Loop_Notes.Form1.resources
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\obj\Debug\net5.0-windows\Loop Notes.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\obj\Debug\net5.0-windows\Loop Notes.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\obj\Debug\net5.0-windows\Loop Notes.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\obj\Debug\net5.0-windows\Loop Notes.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\obj\Debug\net5.0-windows\Loop Notes.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\obj\Debug\net5.0-windows\Loop Notes.dll
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\obj\Debug\net5.0-windows\ref\Loop Notes.dll
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\obj\Debug\net5.0-windows\Loop Notes.pdb
+G:\My Drive\Courses\CS1\05 Loops\Loop Notes\Loop Notes\obj\Debug\net5.0-windows\Loop Notes.genruntimeconfig.cache
